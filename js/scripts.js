@@ -10,7 +10,7 @@ function Contact(firstName, lastName) {
   
   function Address(street, city, state) {
     this.street = street;
-    this.city = city;
+    this.city = city; 
     this.state = state;
   }
   Address.prototype.fullAddress = function() {
