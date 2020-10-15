@@ -10,3 +10,12 @@
   .contact:hover {
     text-decoration: underline;
   }
+
+  h1{
+      text-align: center;
+  }
+  .row{
+    padding-left: 25%;
+    width: 150%;
+
+  }
